@@ -11,5 +11,7 @@ We can just open it using **Wireshark** and **Follow TCP Stream.**
 
 ## Alternative
 Since the traffic is unencrypted, we can just use the **strings** command to get the flag.  
-```strings babysomething.pcap | grep 'MetaCTF{[^}]*}'```  
+```
+strings babysomething.pcap | grep 'MetaCTF{[^}]*}'
+```  
 <img width="1015" height="87" alt="image" src="https://github.com/user-attachments/assets/84040962-9800-45c9-b6c3-2a2227fc8aec" />
