@@ -1,7 +1,7 @@
 # Challenge Statement
 <img width="1112" height="180" alt="image" src="https://github.com/user-attachments/assets/0ae772c3-2fe8-4ecc-a8ca-39c92eb742ac" />
 
-**Attachment:** https://github.com/harishkannan05/MetaCTF-Writeups/blob/b2af664ac06cd0a0570adf58f7a06c252c1fd9e2/August/Attachments/babysomething.pcap
+**Attachment:** [Pcap capture](https://github.com/harishkannan05/MetaCTF-Writeups/blob/b2af664ac06cd0a0570adf58f7a06c252c1fd9e2/August/Attachments/babysomething.pcap)
 
 # Solution
 We are given a `.pcap` capture file and asked to recover the flag.  
