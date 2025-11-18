@@ -13,7 +13,7 @@ Make it executable by given it the right permissions.
 ```
 chmod +x all-about-flag
 ```  
-Running the file, tell use to use the `--help` flag, which then tells us to run `--flag` to get the flag.  
+Running the file, tells us to use the `--help` flag, which then tells us to run `--flag` to get the flag.  
 
 <img width="488" height="86" alt="image" src="https://github.com/user-attachments/assets/075bad0d-d980-43e2-9537-113bd3ef8650" />
 
